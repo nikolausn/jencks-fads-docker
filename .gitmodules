@@ -1,0 +1,3 @@
+[submodule "reinhart-jencks-fads"]
+	path = reinhart-jencks-fads
+	url = https://github.com/htrc/reinhart-jencks-fads
