@@ -1,6 +1,11 @@
 # jencks-fads-docker
 Containerized version for jencks-fads viz
 
+Clone this docker repository, important to use --recurse-submodules to also include the visualization source file
+```
+git clone --recurse-submodules https://github.com/nikolausn/jencks-fads-docker
+```
+
 Build docker image using
 ```
 docker build -t jencks-viz:1.0 .
